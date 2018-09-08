@@ -35,7 +35,7 @@ In this project, the goal is to analyze local and global temperature data and co
 ### Design
 
 
-![](https://img.shields.io/badge/language-Python-orange.svg)
+![](https://img.shields.io/badge/language-SQL-orange.svg)
 
 
 In order to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where I live, following steps were carried out.
