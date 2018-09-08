@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# .gitattributes
+.gitattributes
+
+# README.ipynb
+README.ipynb
+
+# README
+README.docx
+
+# earth image
+earth.png
+
