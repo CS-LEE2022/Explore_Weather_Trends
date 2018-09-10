@@ -13,6 +13,7 @@ In this project, the goal is to analyze local and global temperature data and co
 | <a href='#Prerequisites'> Prerequisites </a> 🔍📜 | 
 | <a href='#Design'> Design </a>  📐 |
 | <a href='#License'> License </a> 🔖 |
+| <a href='#Conclusions'> Conclusions </a>  📌 |
 
 
 <a id='Prerequisites'></a>
@@ -54,6 +55,14 @@ In order to create a visualization and prepare a write up describing the similar
 
 
 - Make observations: the similarities and differences between the world averages and my city’s averages, as well as overall trends, etc.
+
+
+<a id='Conclusions'></a>
+
+### Conclusions
+
+
+In sum, Kingston is cooler when compared with global temperature over the past 250 years, such difference was constant with time. It makes sense as Kingston's coordinators located in the north part of the hemisphere, thus it belongs to frigid region.
 
 
 <a id='License'></a>
