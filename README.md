@@ -31,7 +31,7 @@ In this project, the goal is to analyze local and global temperature data and co
 ![alt text](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a5d44f_earth/earth.png)
 
 
-Image is from Udacity.
+(Image is from Udacity.)
 
 
 <a id='Design'></a>
